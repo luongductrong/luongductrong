@@ -21,6 +21,9 @@ Currently expanding my skills in:
 Check out my projects on my [**Repositories**](https://github.com/luongductrong?tab=repositories).
 
 ## 🌐 **Get in touch**
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ltr.dtrly)
+
 Whether it’s about collaborating on an exciting project or just discussing the latest tech trends, feel free to reach out!
 
 
