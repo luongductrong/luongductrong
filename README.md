@@ -26,6 +26,8 @@ Check out my projects on my [**Repositories**](https://github.com/luongductrong?
 
 Whether it’s about collaborating on an exciting project or just discussing the latest tech trends, feel free to reach out!
 
+[![](https://visitcount.itsvg.in/api?id=luongductrong&label=Profile%20Views&color=5&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!---
 luongductrong/luongductrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
